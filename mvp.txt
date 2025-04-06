@@ -1,0 +1,51 @@
+🕐 [0:00 – 0:20] Introduction
+“Hello everyone, we are Team ECE DAZZLERS, and this is our submission for the Google Solution Challenge.
+We aim to solve a major global issue—ensuring inclusive and equitable quality education for all, aligning with UN SDG Goal 4.”
+
+🎯 [0:20 – 0:40] Problem Statement
+“Millions of students across the globe still lack access to personalized learning, especially in underprivileged or remote regions.
+They face issues like lack of tailored content, language barriers, and no real-time feedback.
+This widens the gap in quality education.”
+
+💡 [0:40 – 1:10] Our Solution – EduBridge
+“Introducing EduBridge, a machine learning-powered web platform.
+It provides personalized learning plans, adaptive feedback, and inclusive features like multilingual support and voice-to-text.
+We also use the Gemini API to generate smart explanations and summaries.”
+
+🛠️ [1:10 – 1:40] Technologies Used
+“Our solution is built with:
+
+Google Colab for training and running ML models
+
+Streamlit for the frontend
+
+Gemini API for intelligent content generation
+
+Firebase for user data and authentication
+
+Together, they create an interactive and intelligent platform for learners.”
+
+📊 [1:40 – 2:10] Demo (show visuals or screenshots)
+“Here’s a quick demo:
+
+The user inputs their name and subject.
+
+The ML model generates a tailored learning path.
+
+Based on progress, the system adapts content dynamically.
+
+Gemini API helps explain tough concepts in simple terms.
+
+All of this happens in real-time, inside a clean, mobile-friendly UI.”
+
+🚀 [2:10 – 2:40] Impact & Future Scope
+“EduBridge empowers students with real-time learning aid, especially in underserved communities.
+Our future roadmap includes offline mode, AR/VR content, and NLP-based doubt solving.
+
+We believe this platform can break the cycle of educational inequality globally.”
+
+🏁 [2:40 – 3:00] Conclusion
+“To conclude, EduBridge is more than just a tech solution—it’s a bridge toward a more inclusive, intelligent, and impactful education system.
+
+Thank you for watching. Let’s revolutionize education, one student at a time!”
+
